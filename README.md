@@ -6,7 +6,7 @@ This repository contains three ipynb files and three csv files.
 The two ipynb files are:
 1. "a. preprocesamiento.ipynb" - This code is used to explore, clean and preprocess "bd titanic original.csv", generating the second and third dataset.
 2. "b. análisis de datos.ipynb" - This code is used to analyze and find data patterns of "bd titanic mineros 1.csv" and "bd titanic mineros 2.csv".
-3. "c. análisis de correlación.ipynb" - This code is utilized to find the correlation between different variables and the "Survived" column, which is a good help or guide for the general analysis of the database.
+3. "c. análisis de correlación.ipynb" - This code is utilized to find the correlation between different variables and the "Survived" column, which is a good help or guide for the overall analysis of the database.
 
 The three csv files are:
 1. "bd titanic original.csv"  - This is the original and initial dataset, extracted from kaggle: https://www.kaggle.com/c/titanic/data
