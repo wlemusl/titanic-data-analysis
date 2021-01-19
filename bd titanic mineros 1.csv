@@ -1,0 +1,892 @@
+Id,Sobrevivió,Clase,Sexo,Edad,HerEsp,PadHij,Precio,Embarcó,GruposEdad,HerEsp + PadHij,SolAcom
+1,0,3,male,22.0,1,0,7.25,S,Adulto jóven,1,Acompañado
+2,1,1,female,38.0,1,0,71.2833,C,Adulto,1,Acompañado
+3,1,3,female,26.0,0,0,7.925,S,Adulto jóven,0,Solo
+4,1,1,female,35.0,1,0,53.1,S,Adulto,1,Acompañado
+5,0,3,male,35.0,0,0,8.05,S,Adulto,0,Solo
+6,0,3,male,,0,0,8.4583,Q,,0,Solo
+7,0,1,male,54.0,0,0,51.8625,S,Adulto mayor,0,Solo
+8,0,3,male,2.0,3,1,21.075,S,Niño,4,Acompañado
+9,1,3,female,27.0,0,2,11.1333,S,Adulto jóven,2,Acompañado
+10,1,2,female,14.0,1,0,30.0708,C,Adolescente,1,Acompañado
+11,1,3,female,4.0,1,1,16.7,S,Niño,2,Acompañado
+12,1,1,female,58.0,0,0,26.55,S,Adulto mayor,0,Solo
+13,0,3,male,20.0,0,0,8.05,S,Adulto jóven,0,Solo
+14,0,3,male,39.0,1,5,31.275,S,Adulto,6,Acompañado
+15,0,3,female,14.0,0,0,7.8542,S,Adolescente,0,Solo
+16,1,2,female,55.0,0,0,16.0,S,Adulto mayor,0,Solo
+17,0,3,male,2.0,4,1,29.125,Q,Niño,5,Acompañado
+18,1,2,male,,0,0,13.0,S,,0,Solo
+19,0,3,female,31.0,1,0,18.0,S,Adulto,1,Acompañado
+20,1,3,female,,0,0,7.225,C,,0,Solo
+21,0,2,male,35.0,0,0,26.0,S,Adulto,0,Solo
+22,1,2,male,34.0,0,0,13.0,S,Adulto,0,Solo
+23,1,3,female,15.0,0,0,8.0292,Q,Adolescente,0,Solo
+24,1,1,male,28.0,0,0,35.5,S,Adulto jóven,0,Solo
+25,0,3,female,8.0,3,1,21.075,S,Niño,4,Acompañado
+26,1,3,female,38.0,1,5,31.3875,S,Adulto,6,Acompañado
+27,0,3,male,,0,0,7.225,C,,0,Solo
+28,0,1,male,19.0,3,2,263.0,S,Adulto jóven,5,Acompañado
+29,1,3,female,,0,0,7.8792,Q,,0,Solo
+30,0,3,male,,0,0,7.8958,S,,0,Solo
+31,0,1,male,40.0,0,0,27.7208,C,Adulto,0,Solo
+32,1,1,female,,1,0,146.5208,C,,1,Acompañado
+33,1,3,female,,0,0,7.75,Q,,0,Solo
+34,0,2,male,66.0,0,0,10.5,S,Adulto mayor,0,Solo
+35,0,1,male,28.0,1,0,82.1708,C,Adulto jóven,1,Acompañado
+36,0,1,male,42.0,1,0,52.0,S,Adulto,1,Acompañado
+37,1,3,male,,0,0,7.2292,C,,0,Solo
+38,0,3,male,21.0,0,0,8.05,S,Adulto jóven,0,Solo
+39,0,3,female,18.0,2,0,18.0,S,Adolescente,2,Acompañado
+40,1,3,female,14.0,1,0,11.2417,C,Adolescente,1,Acompañado
+41,0,3,female,40.0,1,0,9.475,S,Adulto,1,Acompañado
+42,0,2,female,27.0,1,0,21.0,S,Adulto jóven,1,Acompañado
+43,0,3,male,,0,0,7.8958,C,,0,Solo
+44,1,2,female,3.0,1,2,41.5792,C,Niño,3,Acompañado
+45,1,3,female,19.0,0,0,7.8792,Q,Adulto jóven,0,Solo
+46,0,3,male,,0,0,8.05,S,,0,Solo
+47,0,3,male,,1,0,15.5,Q,,1,Acompañado
+48,1,3,female,,0,0,7.75,Q,,0,Solo
+49,0,3,male,,2,0,21.6792,C,,2,Acompañado
+50,0,3,female,18.0,1,0,17.8,S,Adolescente,1,Acompañado
+51,0,3,male,7.0,4,1,39.6875,S,Niño,5,Acompañado
+52,0,3,male,21.0,0,0,7.8,S,Adulto jóven,0,Solo
+53,1,1,female,49.0,1,0,76.7292,C,Adulto,1,Acompañado
+54,1,2,female,29.0,1,0,26.0,S,Adulto jóven,1,Acompañado
+55,0,1,male,65.0,0,1,61.9792,C,Adulto mayor,1,Acompañado
+56,1,1,male,,0,0,35.5,S,,0,Solo
+57,1,2,female,21.0,0,0,10.5,S,Adulto jóven,0,Solo
+58,0,3,male,28.5,0,0,7.2292,C,Adulto jóven,0,Solo
+59,1,2,female,5.0,1,2,27.75,S,Niño,3,Acompañado
+60,0,3,male,11.0,5,2,46.9,S,Niño,7,Acompañado
+61,0,3,male,22.0,0,0,7.2292,C,Adulto jóven,0,Solo
+62,1,1,female,38.0,0,0,80.0,S,Adulto,0,Solo
+63,0,1,male,45.0,1,0,83.475,S,Adulto,1,Acompañado
+64,0,3,male,4.0,3,2,27.9,S,Niño,5,Acompañado
+65,0,1,male,,0,0,27.7208,C,,0,Solo
+66,1,3,male,,1,1,15.2458,C,,2,Acompañado
+67,1,2,female,29.0,0,0,10.5,S,Adulto jóven,0,Solo
+68,0,3,male,19.0,0,0,8.1583,S,Adulto jóven,0,Solo
+69,1,3,female,17.0,4,2,7.925,S,Adolescente,6,Acompañado
+70,0,3,male,26.0,2,0,8.6625,S,Adulto jóven,2,Acompañado
+71,0,2,male,32.0,0,0,10.5,S,Adulto,0,Solo
+72,0,3,female,16.0,5,2,46.9,S,Adolescente,7,Acompañado
+73,0,2,male,21.0,0,0,73.5,S,Adulto jóven,0,Solo
+74,0,3,male,26.0,1,0,14.4542,C,Adulto jóven,1,Acompañado
+75,1,3,male,32.0,0,0,56.4958,S,Adulto,0,Solo
+76,0,3,male,25.0,0,0,7.65,S,Adulto jóven,0,Solo
+77,0,3,male,,0,0,7.8958,S,,0,Solo
+78,0,3,male,,0,0,8.05,S,,0,Solo
+79,1,2,male,0.83,0,2,29.0,S,Niño,2,Acompañado
+80,1,3,female,30.0,0,0,12.475,S,Adulto,0,Solo
+81,0,3,male,22.0,0,0,9.0,S,Adulto jóven,0,Solo
+82,1,3,male,29.0,0,0,9.5,S,Adulto jóven,0,Solo
+83,1,3,female,,0,0,7.7875,Q,,0,Solo
+84,0,1,male,28.0,0,0,47.1,S,Adulto jóven,0,Solo
+85,1,2,female,17.0,0,0,10.5,S,Adolescente,0,Solo
+86,1,3,female,33.0,3,0,15.85,S,Adulto,3,Acompañado
+87,0,3,male,16.0,1,3,34.375,S,Adolescente,4,Acompañado
+88,0,3,male,,0,0,8.05,S,,0,Solo
+89,1,1,female,23.0,3,2,263.0,S,Adulto jóven,5,Acompañado
+90,0,3,male,24.0,0,0,8.05,S,Adulto jóven,0,Solo
+91,0,3,male,29.0,0,0,8.05,S,Adulto jóven,0,Solo
+92,0,3,male,20.0,0,0,7.8542,S,Adulto jóven,0,Solo
+93,0,1,male,46.0,1,0,61.175,S,Adulto,1,Acompañado
+94,0,3,male,26.0,1,2,20.575,S,Adulto jóven,3,Acompañado
+95,0,3,male,59.0,0,0,7.25,S,Adulto mayor,0,Solo
+96,0,3,male,,0,0,8.05,S,,0,Solo
+97,0,1,male,71.0,0,0,34.6542,C,Adulto mayor,0,Solo
+98,1,1,male,23.0,0,1,63.3583,C,Adulto jóven,1,Acompañado
+99,1,2,female,34.0,0,1,23.0,S,Adulto,1,Acompañado
+100,0,2,male,34.0,1,0,26.0,S,Adulto,1,Acompañado
+101,0,3,female,28.0,0,0,7.8958,S,Adulto jóven,0,Solo
+102,0,3,male,,0,0,7.8958,S,,0,Solo
+103,0,1,male,21.0,0,1,77.2875,S,Adulto jóven,1,Acompañado
+104,0,3,male,33.0,0,0,8.6542,S,Adulto,0,Solo
+105,0,3,male,37.0,2,0,7.925,S,Adulto,2,Acompañado
+106,0,3,male,28.0,0,0,7.8958,S,Adulto jóven,0,Solo
+107,1,3,female,21.0,0,0,7.65,S,Adulto jóven,0,Solo
+108,1,3,male,,0,0,7.775,S,,0,Solo
+109,0,3,male,38.0,0,0,7.8958,S,Adulto,0,Solo
+110,1,3,female,,1,0,24.15,Q,,1,Acompañado
+111,0,1,male,47.0,0,0,52.0,S,Adulto,0,Solo
+112,0,3,female,14.5,1,0,14.4542,C,Adolescente,1,Acompañado
+113,0,3,male,22.0,0,0,8.05,S,Adulto jóven,0,Solo
+114,0,3,female,20.0,1,0,9.825,S,Adulto jóven,1,Acompañado
+115,0,3,female,17.0,0,0,14.4583,C,Adolescente,0,Solo
+116,0,3,male,21.0,0,0,7.925,S,Adulto jóven,0,Solo
+117,0,3,male,70.5,0,0,7.75,Q,Adulto mayor,0,Solo
+118,0,2,male,29.0,1,0,21.0,S,Adulto jóven,1,Acompañado
+119,0,1,male,24.0,0,1,247.5208,C,Adulto jóven,1,Acompañado
+120,0,3,female,2.0,4,2,31.275,S,Niño,6,Acompañado
+121,0,2,male,21.0,2,0,73.5,S,Adulto jóven,2,Acompañado
+122,0,3,male,,0,0,8.05,S,,0,Solo
+123,0,2,male,32.5,1,0,30.0708,C,Adulto,1,Acompañado
+124,1,2,female,32.5,0,0,13.0,S,Adulto,0,Solo
+125,0,1,male,54.0,0,1,77.2875,S,Adulto mayor,1,Acompañado
+126,1,3,male,12.0,1,0,11.2417,C,Niño,1,Acompañado
+127,0,3,male,,0,0,7.75,Q,,0,Solo
+128,1,3,male,24.0,0,0,7.1417,S,Adulto jóven,0,Solo
+129,1,3,female,,1,1,22.3583,C,,2,Acompañado
+130,0,3,male,45.0,0,0,6.975,S,Adulto,0,Solo
+131,0,3,male,33.0,0,0,7.8958,C,Adulto,0,Solo
+132,0,3,male,20.0,0,0,7.05,S,Adulto jóven,0,Solo
+133,0,3,female,47.0,1,0,14.5,S,Adulto,1,Acompañado
+134,1,2,female,29.0,1,0,26.0,S,Adulto jóven,1,Acompañado
+135,0,2,male,25.0,0,0,13.0,S,Adulto jóven,0,Solo
+136,0,2,male,23.0,0,0,15.0458,C,Adulto jóven,0,Solo
+137,1,1,female,19.0,0,2,26.2833,S,Adulto jóven,2,Acompañado
+138,0,1,male,37.0,1,0,53.1,S,Adulto,1,Acompañado
+139,0,3,male,16.0,0,0,9.2167,S,Adolescente,0,Solo
+140,0,1,male,24.0,0,0,79.2,C,Adulto jóven,0,Solo
+141,0,3,female,,0,2,15.2458,C,,2,Acompañado
+142,1,3,female,22.0,0,0,7.75,S,Adulto jóven,0,Solo
+143,1,3,female,24.0,1,0,15.85,S,Adulto jóven,1,Acompañado
+144,0,3,male,19.0,0,0,6.75,Q,Adulto jóven,0,Solo
+145,0,2,male,18.0,0,0,11.5,S,Adolescente,0,Solo
+146,0,2,male,19.0,1,1,36.75,S,Adulto jóven,2,Acompañado
+147,1,3,male,27.0,0,0,7.7958,S,Adulto jóven,0,Solo
+148,0,3,female,9.0,2,2,34.375,S,Niño,4,Acompañado
+149,0,2,male,36.5,0,2,26.0,S,Adulto,2,Acompañado
+150,0,2,male,42.0,0,0,13.0,S,Adulto,0,Solo
+151,0,2,male,51.0,0,0,12.525,S,Adulto mayor,0,Solo
+152,1,1,female,22.0,1,0,66.6,S,Adulto jóven,1,Acompañado
+153,0,3,male,55.5,0,0,8.05,S,Adulto mayor,0,Solo
+154,0,3,male,40.5,0,2,14.5,S,Adulto,2,Acompañado
+155,0,3,male,,0,0,7.3125,S,,0,Solo
+156,0,1,male,51.0,0,1,61.3792,C,Adulto mayor,1,Acompañado
+157,1,3,female,16.0,0,0,7.7333,Q,Adolescente,0,Solo
+158,0,3,male,30.0,0,0,8.05,S,Adulto,0,Solo
+159,0,3,male,,0,0,8.6625,S,,0,Solo
+160,0,3,male,,8,2,69.55,S,,10,Acompañado
+161,0,3,male,44.0,0,1,16.1,S,Adulto,1,Acompañado
+162,1,2,female,40.0,0,0,15.75,S,Adulto,0,Solo
+163,0,3,male,26.0,0,0,7.775,S,Adulto jóven,0,Solo
+164,0,3,male,17.0,0,0,8.6625,S,Adolescente,0,Solo
+165,0,3,male,1.0,4,1,39.6875,S,Niño,5,Acompañado
+166,1,3,male,9.0,0,2,20.525,S,Niño,2,Acompañado
+167,1,1,female,,0,1,55.0,S,,1,Acompañado
+168,0,3,female,45.0,1,4,27.9,S,Adulto,5,Acompañado
+169,0,1,male,,0,0,25.925,S,,0,Solo
+170,0,3,male,28.0,0,0,56.4958,S,Adulto jóven,0,Solo
+171,0,1,male,61.0,0,0,33.5,S,Adulto mayor,0,Solo
+172,0,3,male,4.0,4,1,29.125,Q,Niño,5,Acompañado
+173,1,3,female,1.0,1,1,11.1333,S,Niño,2,Acompañado
+174,0,3,male,21.0,0,0,7.925,S,Adulto jóven,0,Solo
+175,0,1,male,56.0,0,0,30.6958,C,Adulto mayor,0,Solo
+176,0,3,male,18.0,1,1,7.8542,S,Adolescente,2,Acompañado
+177,0,3,male,,3,1,25.4667,S,,4,Acompañado
+178,0,1,female,50.0,0,0,28.7125,C,Adulto mayor,0,Solo
+179,0,2,male,30.0,0,0,13.0,S,Adulto,0,Solo
+180,0,3,male,36.0,0,0,0.0,S,Adulto,0,Solo
+181,0,3,female,,8,2,69.55,S,,10,Acompañado
+182,0,2,male,,0,0,15.05,C,,0,Solo
+183,0,3,male,9.0,4,2,31.3875,S,Niño,6,Acompañado
+184,1,2,male,1.0,2,1,39.0,S,Niño,3,Acompañado
+185,1,3,female,4.0,0,2,22.025,S,Niño,2,Acompañado
+186,0,1,male,,0,0,50.0,S,,0,Solo
+187,1,3,female,,1,0,15.5,Q,,1,Acompañado
+188,1,1,male,45.0,0,0,26.55,S,Adulto,0,Solo
+189,0,3,male,40.0,1,1,15.5,Q,Adulto,2,Acompañado
+190,0,3,male,36.0,0,0,7.8958,S,Adulto,0,Solo
+191,1,2,female,32.0,0,0,13.0,S,Adulto,0,Solo
+192,0,2,male,19.0,0,0,13.0,S,Adulto jóven,0,Solo
+193,1,3,female,19.0,1,0,7.8542,S,Adulto jóven,1,Acompañado
+194,1,2,male,3.0,1,1,26.0,S,Niño,2,Acompañado
+195,1,1,female,44.0,0,0,27.7208,C,Adulto,0,Solo
+196,1,1,female,58.0,0,0,146.5208,C,Adulto mayor,0,Solo
+197,0,3,male,,0,0,7.75,Q,,0,Solo
+198,0,3,male,42.0,0,1,8.4042,S,Adulto,1,Acompañado
+199,1,3,female,,0,0,7.75,Q,,0,Solo
+200,0,2,female,24.0,0,0,13.0,S,Adulto jóven,0,Solo
+201,0,3,male,28.0,0,0,9.5,S,Adulto jóven,0,Solo
+202,0,3,male,,8,2,69.55,S,,10,Acompañado
+203,0,3,male,34.0,0,0,6.4958,S,Adulto,0,Solo
+204,0,3,male,45.5,0,0,7.225,C,Adulto,0,Solo
+205,1,3,male,18.0,0,0,8.05,S,Adolescente,0,Solo
+206,0,3,female,2.0,0,1,10.4625,S,Niño,1,Acompañado
+207,0,3,male,32.0,1,0,15.85,S,Adulto,1,Acompañado
+208,1,3,male,26.0,0,0,18.7875,C,Adulto jóven,0,Solo
+209,1,3,female,16.0,0,0,7.75,Q,Adolescente,0,Solo
+210,1,1,male,40.0,0,0,31.0,C,Adulto,0,Solo
+211,0,3,male,24.0,0,0,7.05,S,Adulto jóven,0,Solo
+212,1,2,female,35.0,0,0,21.0,S,Adulto,0,Solo
+213,0,3,male,22.0,0,0,7.25,S,Adulto jóven,0,Solo
+214,0,2,male,30.0,0,0,13.0,S,Adulto,0,Solo
+215,0,3,male,,1,0,7.75,Q,,1,Acompañado
+216,1,1,female,31.0,1,0,113.275,C,Adulto,1,Acompañado
+217,1,3,female,27.0,0,0,7.925,S,Adulto jóven,0,Solo
+218,0,2,male,42.0,1,0,27.0,S,Adulto,1,Acompañado
+219,1,1,female,32.0,0,0,76.2917,C,Adulto,0,Solo
+220,0,2,male,30.0,0,0,10.5,S,Adulto,0,Solo
+221,1,3,male,16.0,0,0,8.05,S,Adolescente,0,Solo
+222,0,2,male,27.0,0,0,13.0,S,Adulto jóven,0,Solo
+223,0,3,male,51.0,0,0,8.05,S,Adulto mayor,0,Solo
+224,0,3,male,,0,0,7.8958,S,,0,Solo
+225,1,1,male,38.0,1,0,90.0,S,Adulto,1,Acompañado
+226,0,3,male,22.0,0,0,9.35,S,Adulto jóven,0,Solo
+227,1,2,male,19.0,0,0,10.5,S,Adulto jóven,0,Solo
+228,0,3,male,20.5,0,0,7.25,S,Adulto jóven,0,Solo
+229,0,2,male,18.0,0,0,13.0,S,Adolescente,0,Solo
+230,0,3,female,,3,1,25.4667,S,,4,Acompañado
+231,1,1,female,35.0,1,0,83.475,S,Adulto,1,Acompañado
+232,0,3,male,29.0,0,0,7.775,S,Adulto jóven,0,Solo
+233,0,2,male,59.0,0,0,13.5,S,Adulto mayor,0,Solo
+234,1,3,female,5.0,4,2,31.3875,S,Niño,6,Acompañado
+235,0,2,male,24.0,0,0,10.5,S,Adulto jóven,0,Solo
+236,0,3,female,,0,0,7.55,S,,0,Solo
+237,0,2,male,44.0,1,0,26.0,S,Adulto,1,Acompañado
+238,1,2,female,8.0,0,2,26.25,S,Niño,2,Acompañado
+239,0,2,male,19.0,0,0,10.5,S,Adulto jóven,0,Solo
+240,0,2,male,33.0,0,0,12.275,S,Adulto,0,Solo
+241,0,3,female,,1,0,14.4542,C,,1,Acompañado
+242,1,3,female,,1,0,15.5,Q,,1,Acompañado
+243,0,2,male,29.0,0,0,10.5,S,Adulto jóven,0,Solo
+244,0,3,male,22.0,0,0,7.125,S,Adulto jóven,0,Solo
+245,0,3,male,30.0,0,0,7.225,C,Adulto,0,Solo
+246,0,1,male,44.0,2,0,90.0,Q,Adulto,2,Acompañado
+247,0,3,female,25.0,0,0,7.775,S,Adulto jóven,0,Solo
+248,1,2,female,24.0,0,2,14.5,S,Adulto jóven,2,Acompañado
+249,1,1,male,37.0,1,1,52.5542,S,Adulto,2,Acompañado
+250,0,2,male,54.0,1,0,26.0,S,Adulto mayor,1,Acompañado
+251,0,3,male,,0,0,7.25,S,,0,Solo
+252,0,3,female,29.0,1,1,10.4625,S,Adulto jóven,2,Acompañado
+253,0,1,male,62.0,0,0,26.55,S,Adulto mayor,0,Solo
+254,0,3,male,30.0,1,0,16.1,S,Adulto,1,Acompañado
+255,0,3,female,41.0,0,2,20.2125,S,Adulto,2,Acompañado
+256,1,3,female,29.0,0,2,15.2458,C,Adulto jóven,2,Acompañado
+257,1,1,female,,0,0,79.2,C,,0,Solo
+258,1,1,female,30.0,0,0,86.5,S,Adulto,0,Solo
+259,1,1,female,35.0,0,0,512.3292,C,Adulto,0,Solo
+260,1,2,female,50.0,0,1,26.0,S,Adulto mayor,1,Acompañado
+261,0,3,male,,0,0,7.75,Q,,0,Solo
+262,1,3,male,3.0,4,2,31.3875,S,Niño,6,Acompañado
+263,0,1,male,52.0,1,1,79.65,S,Adulto mayor,2,Acompañado
+264,0,1,male,40.0,0,0,0.0,S,Adulto,0,Solo
+265,0,3,female,,0,0,7.75,Q,,0,Solo
+266,0,2,male,36.0,0,0,10.5,S,Adulto,0,Solo
+267,0,3,male,16.0,4,1,39.6875,S,Adolescente,5,Acompañado
+268,1,3,male,25.0,1,0,7.775,S,Adulto jóven,1,Acompañado
+269,1,1,female,58.0,0,1,153.4625,S,Adulto mayor,1,Acompañado
+270,1,1,female,35.0,0,0,135.6333,S,Adulto,0,Solo
+271,0,1,male,,0,0,31.0,S,,0,Solo
+272,1,3,male,25.0,0,0,0.0,S,Adulto jóven,0,Solo
+273,1,2,female,41.0,0,1,19.5,S,Adulto,1,Acompañado
+274,0,1,male,37.0,0,1,29.7,C,Adulto,1,Acompañado
+275,1,3,female,,0,0,7.75,Q,,0,Solo
+276,1,1,female,63.0,1,0,77.9583,S,Adulto mayor,1,Acompañado
+277,0,3,female,45.0,0,0,7.75,S,Adulto,0,Solo
+278,0,2,male,,0,0,0.0,S,,0,Solo
+279,0,3,male,7.0,4,1,29.125,Q,Niño,5,Acompañado
+280,1,3,female,35.0,1,1,20.25,S,Adulto,2,Acompañado
+281,0,3,male,65.0,0,0,7.75,Q,Adulto mayor,0,Solo
+282,0,3,male,28.0,0,0,7.8542,S,Adulto jóven,0,Solo
+283,0,3,male,16.0,0,0,9.5,S,Adolescente,0,Solo
+284,1,3,male,19.0,0,0,8.05,S,Adulto jóven,0,Solo
+285,0,1,male,,0,0,26.0,S,,0,Solo
+286,0,3,male,33.0,0,0,8.6625,C,Adulto,0,Solo
+287,1,3,male,30.0,0,0,9.5,S,Adulto,0,Solo
+288,0,3,male,22.0,0,0,7.8958,S,Adulto jóven,0,Solo
+289,1,2,male,42.0,0,0,13.0,S,Adulto,0,Solo
+290,1,3,female,22.0,0,0,7.75,Q,Adulto jóven,0,Solo
+291,1,1,female,26.0,0,0,78.85,S,Adulto jóven,0,Solo
+292,1,1,female,19.0,1,0,91.0792,C,Adulto jóven,1,Acompañado
+293,0,2,male,36.0,0,0,12.875,C,Adulto,0,Solo
+294,0,3,female,24.0,0,0,8.85,S,Adulto jóven,0,Solo
+295,0,3,male,24.0,0,0,7.8958,S,Adulto jóven,0,Solo
+296,0,1,male,,0,0,27.7208,C,,0,Solo
+297,0,3,male,23.5,0,0,7.2292,C,Adulto jóven,0,Solo
+298,0,1,female,2.0,1,2,151.55,S,Niño,3,Acompañado
+299,1,1,male,,0,0,30.5,S,,0,Solo
+300,1,1,female,50.0,0,1,247.5208,C,Adulto mayor,1,Acompañado
+301,1,3,female,,0,0,7.75,Q,,0,Solo
+302,1,3,male,,2,0,23.25,Q,,2,Acompañado
+303,0,3,male,19.0,0,0,0.0,S,Adulto jóven,0,Solo
+304,1,2,female,,0,0,12.35,Q,,0,Solo
+305,0,3,male,,0,0,8.05,S,,0,Solo
+306,1,1,male,0.92,1,2,151.55,S,Niño,3,Acompañado
+307,1,1,female,,0,0,110.8833,C,,0,Solo
+308,1,1,female,17.0,1,0,108.9,C,Adolescente,1,Acompañado
+309,0,2,male,30.0,1,0,24.0,C,Adulto,1,Acompañado
+310,1,1,female,30.0,0,0,56.9292,C,Adulto,0,Solo
+311,1,1,female,24.0,0,0,83.1583,C,Adulto jóven,0,Solo
+312,1,1,female,18.0,2,2,262.375,C,Adolescente,4,Acompañado
+313,0,2,female,26.0,1,1,26.0,S,Adulto jóven,2,Acompañado
+314,0,3,male,28.0,0,0,7.8958,S,Adulto jóven,0,Solo
+315,0,2,male,43.0,1,1,26.25,S,Adulto,2,Acompañado
+316,1,3,female,26.0,0,0,7.8542,S,Adulto jóven,0,Solo
+317,1,2,female,24.0,1,0,26.0,S,Adulto jóven,1,Acompañado
+318,0,2,male,54.0,0,0,14.0,S,Adulto mayor,0,Solo
+319,1,1,female,31.0,0,2,164.8667,S,Adulto,2,Acompañado
+320,1,1,female,40.0,1,1,134.5,C,Adulto,2,Acompañado
+321,0,3,male,22.0,0,0,7.25,S,Adulto jóven,0,Solo
+322,0,3,male,27.0,0,0,7.8958,S,Adulto jóven,0,Solo
+323,1,2,female,30.0,0,0,12.35,Q,Adulto,0,Solo
+324,1,2,female,22.0,1,1,29.0,S,Adulto jóven,2,Acompañado
+325,0,3,male,,8,2,69.55,S,,10,Acompañado
+326,1,1,female,36.0,0,0,135.6333,C,Adulto,0,Solo
+327,0,3,male,61.0,0,0,6.2375,S,Adulto mayor,0,Solo
+328,1,2,female,36.0,0,0,13.0,S,Adulto,0,Solo
+329,1,3,female,31.0,1,1,20.525,S,Adulto,2,Acompañado
+330,1,1,female,16.0,0,1,57.9792,C,Adolescente,1,Acompañado
+331,1,3,female,,2,0,23.25,Q,,2,Acompañado
+332,0,1,male,45.5,0,0,28.5,S,Adulto,0,Solo
+333,0,1,male,38.0,0,1,153.4625,S,Adulto,1,Acompañado
+334,0,3,male,16.0,2,0,18.0,S,Adolescente,2,Acompañado
+335,1,1,female,,1,0,133.65,S,,1,Acompañado
+336,0,3,male,,0,0,7.8958,S,,0,Solo
+337,0,1,male,29.0,1,0,66.6,S,Adulto jóven,1,Acompañado
+338,1,1,female,41.0,0,0,134.5,C,Adulto,0,Solo
+339,1,3,male,45.0,0,0,8.05,S,Adulto,0,Solo
+340,0,1,male,45.0,0,0,35.5,S,Adulto,0,Solo
+341,1,2,male,2.0,1,1,26.0,S,Niño,2,Acompañado
+342,1,1,female,24.0,3,2,263.0,S,Adulto jóven,5,Acompañado
+343,0,2,male,28.0,0,0,13.0,S,Adulto jóven,0,Solo
+344,0,2,male,25.0,0,0,13.0,S,Adulto jóven,0,Solo
+345,0,2,male,36.0,0,0,13.0,S,Adulto,0,Solo
+346,1,2,female,24.0,0,0,13.0,S,Adulto jóven,0,Solo
+347,1,2,female,40.0,0,0,13.0,S,Adulto,0,Solo
+348,1,3,female,,1,0,16.1,S,,1,Acompañado
+349,1,3,male,3.0,1,1,15.9,S,Niño,2,Acompañado
+350,0,3,male,42.0,0,0,8.6625,S,Adulto,0,Solo
+351,0,3,male,23.0,0,0,9.225,S,Adulto jóven,0,Solo
+352,0,1,male,,0,0,35.0,S,,0,Solo
+353,0,3,male,15.0,1,1,7.2292,C,Adolescente,2,Acompañado
+354,0,3,male,25.0,1,0,17.8,S,Adulto jóven,1,Acompañado
+355,0,3,male,,0,0,7.225,C,,0,Solo
+356,0,3,male,28.0,0,0,9.5,S,Adulto jóven,0,Solo
+357,1,1,female,22.0,0,1,55.0,S,Adulto jóven,1,Acompañado
+358,0,2,female,38.0,0,0,13.0,S,Adulto,0,Solo
+359,1,3,female,,0,0,7.8792,Q,,0,Solo
+360,1,3,female,,0,0,7.8792,Q,,0,Solo
+361,0,3,male,40.0,1,4,27.9,S,Adulto,5,Acompañado
+362,0,2,male,29.0,1,0,27.7208,C,Adulto jóven,1,Acompañado
+363,0,3,female,45.0,0,1,14.4542,C,Adulto,1,Acompañado
+364,0,3,male,35.0,0,0,7.05,S,Adulto,0,Solo
+365,0,3,male,,1,0,15.5,Q,,1,Acompañado
+366,0,3,male,30.0,0,0,7.25,S,Adulto,0,Solo
+367,1,1,female,60.0,1,0,75.25,C,Adulto mayor,1,Acompañado
+368,1,3,female,,0,0,7.2292,C,,0,Solo
+369,1,3,female,,0,0,7.75,Q,,0,Solo
+370,1,1,female,24.0,0,0,69.3,C,Adulto jóven,0,Solo
+371,1,1,male,25.0,1,0,55.4417,C,Adulto jóven,1,Acompañado
+372,0,3,male,18.0,1,0,6.4958,S,Adolescente,1,Acompañado
+373,0,3,male,19.0,0,0,8.05,S,Adulto jóven,0,Solo
+374,0,1,male,22.0,0,0,135.6333,C,Adulto jóven,0,Solo
+375,0,3,female,3.0,3,1,21.075,S,Niño,4,Acompañado
+376,1,1,female,,1,0,82.1708,C,,1,Acompañado
+377,1,3,female,22.0,0,0,7.25,S,Adulto jóven,0,Solo
+378,0,1,male,27.0,0,2,211.5,C,Adulto jóven,2,Acompañado
+379,0,3,male,20.0,0,0,4.0125,C,Adulto jóven,0,Solo
+380,0,3,male,19.0,0,0,7.775,S,Adulto jóven,0,Solo
+381,1,1,female,42.0,0,0,227.525,C,Adulto,0,Solo
+382,1,3,female,1.0,0,2,15.7417,C,Niño,2,Acompañado
+383,0,3,male,32.0,0,0,7.925,S,Adulto,0,Solo
+384,1,1,female,35.0,1,0,52.0,S,Adulto,1,Acompañado
+385,0,3,male,,0,0,7.8958,S,,0,Solo
+386,0,2,male,18.0,0,0,73.5,S,Adolescente,0,Solo
+387,0,3,male,1.0,5,2,46.9,S,Niño,7,Acompañado
+388,1,2,female,36.0,0,0,13.0,S,Adulto,0,Solo
+389,0,3,male,,0,0,7.7292,Q,,0,Solo
+390,1,2,female,17.0,0,0,12.0,C,Adolescente,0,Solo
+391,1,1,male,36.0,1,2,120.0,S,Adulto,3,Acompañado
+392,1,3,male,21.0,0,0,7.7958,S,Adulto jóven,0,Solo
+393,0,3,male,28.0,2,0,7.925,S,Adulto jóven,2,Acompañado
+394,1,1,female,23.0,1,0,113.275,C,Adulto jóven,1,Acompañado
+395,1,3,female,24.0,0,2,16.7,S,Adulto jóven,2,Acompañado
+396,0,3,male,22.0,0,0,7.7958,S,Adulto jóven,0,Solo
+397,0,3,female,31.0,0,0,7.8542,S,Adulto,0,Solo
+398,0,2,male,46.0,0,0,26.0,S,Adulto,0,Solo
+399,0,2,male,23.0,0,0,10.5,S,Adulto jóven,0,Solo
+400,1,2,female,28.0,0,0,12.65,S,Adulto jóven,0,Solo
+401,1,3,male,39.0,0,0,7.925,S,Adulto,0,Solo
+402,0,3,male,26.0,0,0,8.05,S,Adulto jóven,0,Solo
+403,0,3,female,21.0,1,0,9.825,S,Adulto jóven,1,Acompañado
+404,0,3,male,28.0,1,0,15.85,S,Adulto jóven,1,Acompañado
+405,0,3,female,20.0,0,0,8.6625,S,Adulto jóven,0,Solo
+406,0,2,male,34.0,1,0,21.0,S,Adulto,1,Acompañado
+407,0,3,male,51.0,0,0,7.75,S,Adulto mayor,0,Solo
+408,1,2,male,3.0,1,1,18.75,S,Niño,2,Acompañado
+409,0,3,male,21.0,0,0,7.775,S,Adulto jóven,0,Solo
+410,0,3,female,,3,1,25.4667,S,,4,Acompañado
+411,0,3,male,,0,0,7.8958,S,,0,Solo
+412,0,3,male,,0,0,6.8583,Q,,0,Solo
+413,1,1,female,33.0,1,0,90.0,Q,Adulto,1,Acompañado
+414,0,2,male,,0,0,0.0,S,,0,Solo
+415,1,3,male,44.0,0,0,7.925,S,Adulto,0,Solo
+416,0,3,female,,0,0,8.05,S,,0,Solo
+417,1,2,female,34.0,1,1,32.5,S,Adulto,2,Acompañado
+418,1,2,female,18.0,0,2,13.0,S,Adolescente,2,Acompañado
+419,0,2,male,30.0,0,0,13.0,S,Adulto,0,Solo
+420,0,3,female,10.0,0,2,24.15,S,Niño,2,Acompañado
+421,0,3,male,,0,0,7.8958,C,,0,Solo
+422,0,3,male,21.0,0,0,7.7333,Q,Adulto jóven,0,Solo
+423,0,3,male,29.0,0,0,7.875,S,Adulto jóven,0,Solo
+424,0,3,female,28.0,1,1,14.4,S,Adulto jóven,2,Acompañado
+425,0,3,male,18.0,1,1,20.2125,S,Adolescente,2,Acompañado
+426,0,3,male,,0,0,7.25,S,,0,Solo
+427,1,2,female,28.0,1,0,26.0,S,Adulto jóven,1,Acompañado
+428,1,2,female,19.0,0,0,26.0,S,Adulto jóven,0,Solo
+429,0,3,male,,0,0,7.75,Q,,0,Solo
+430,1,3,male,32.0,0,0,8.05,S,Adulto,0,Solo
+431,1,1,male,28.0,0,0,26.55,S,Adulto jóven,0,Solo
+432,1,3,female,,1,0,16.1,S,,1,Acompañado
+433,1,2,female,42.0,1,0,26.0,S,Adulto,1,Acompañado
+434,0,3,male,17.0,0,0,7.125,S,Adolescente,0,Solo
+435,0,1,male,50.0,1,0,55.9,S,Adulto mayor,1,Acompañado
+436,1,1,female,14.0,1,2,120.0,S,Adolescente,3,Acompañado
+437,0,3,female,21.0,2,2,34.375,S,Adulto jóven,4,Acompañado
+438,1,2,female,24.0,2,3,18.75,S,Adulto jóven,5,Acompañado
+439,0,1,male,64.0,1,4,263.0,S,Adulto mayor,5,Acompañado
+440,0,2,male,31.0,0,0,10.5,S,Adulto,0,Solo
+441,1,2,female,45.0,1,1,26.25,S,Adulto,2,Acompañado
+442,0,3,male,20.0,0,0,9.5,S,Adulto jóven,0,Solo
+443,0,3,male,25.0,1,0,7.775,S,Adulto jóven,1,Acompañado
+444,1,2,female,28.0,0,0,13.0,S,Adulto jóven,0,Solo
+445,1,3,male,,0,0,8.1125,S,,0,Solo
+446,1,1,male,4.0,0,2,81.8583,S,Niño,2,Acompañado
+447,1,2,female,13.0,0,1,19.5,S,Niño,1,Acompañado
+448,1,1,male,34.0,0,0,26.55,S,Adulto,0,Solo
+449,1,3,female,5.0,2,1,19.2583,C,Niño,3,Acompañado
+450,1,1,male,52.0,0,0,30.5,S,Adulto mayor,0,Solo
+451,0,2,male,36.0,1,2,27.75,S,Adulto,3,Acompañado
+452,0,3,male,,1,0,19.9667,S,,1,Acompañado
+453,0,1,male,30.0,0,0,27.75,C,Adulto,0,Solo
+454,1,1,male,49.0,1,0,89.1042,C,Adulto,1,Acompañado
+455,0,3,male,,0,0,8.05,S,,0,Solo
+456,1,3,male,29.0,0,0,7.8958,C,Adulto jóven,0,Solo
+457,0,1,male,65.0,0,0,26.55,S,Adulto mayor,0,Solo
+458,1,1,female,,1,0,51.8625,S,,1,Acompañado
+459,1,2,female,50.0,0,0,10.5,S,Adulto mayor,0,Solo
+460,0,3,male,,0,0,7.75,Q,,0,Solo
+461,1,1,male,48.0,0,0,26.55,S,Adulto,0,Solo
+462,0,3,male,34.0,0,0,8.05,S,Adulto,0,Solo
+463,0,1,male,47.0,0,0,38.5,S,Adulto,0,Solo
+464,0,2,male,48.0,0,0,13.0,S,Adulto,0,Solo
+465,0,3,male,,0,0,8.05,S,,0,Solo
+466,0,3,male,38.0,0,0,7.05,S,Adulto,0,Solo
+467,0,2,male,,0,0,0.0,S,,0,Solo
+468,0,1,male,56.0,0,0,26.55,S,Adulto mayor,0,Solo
+469,0,3,male,,0,0,7.725,Q,,0,Solo
+470,1,3,female,0.75,2,1,19.2583,C,Niño,3,Acompañado
+471,0,3,male,,0,0,7.25,S,,0,Solo
+472,0,3,male,38.0,0,0,8.6625,S,Adulto,0,Solo
+473,1,2,female,33.0,1,2,27.75,S,Adulto,3,Acompañado
+474,1,2,female,23.0,0,0,13.7917,C,Adulto jóven,0,Solo
+475,0,3,female,22.0,0,0,9.8375,S,Adulto jóven,0,Solo
+476,0,1,male,,0,0,52.0,S,,0,Solo
+477,0,2,male,34.0,1,0,21.0,S,Adulto,1,Acompañado
+478,0,3,male,29.0,1,0,7.0458,S,Adulto jóven,1,Acompañado
+479,0,3,male,22.0,0,0,7.5208,S,Adulto jóven,0,Solo
+480,1,3,female,2.0,0,1,12.2875,S,Niño,1,Acompañado
+481,0,3,male,9.0,5,2,46.9,S,Niño,7,Acompañado
+482,0,2,male,,0,0,0.0,S,,0,Solo
+483,0,3,male,50.0,0,0,8.05,S,Adulto mayor,0,Solo
+484,1,3,female,63.0,0,0,9.5875,S,Adulto mayor,0,Solo
+485,1,1,male,25.0,1,0,91.0792,C,Adulto jóven,1,Acompañado
+486,0,3,female,,3,1,25.4667,S,,4,Acompañado
+487,1,1,female,35.0,1,0,90.0,S,Adulto,1,Acompañado
+488,0,1,male,58.0,0,0,29.7,C,Adulto mayor,0,Solo
+489,0,3,male,30.0,0,0,8.05,S,Adulto,0,Solo
+490,1,3,male,9.0,1,1,15.9,S,Niño,2,Acompañado
+491,0,3,male,,1,0,19.9667,S,,1,Acompañado
+492,0,3,male,21.0,0,0,7.25,S,Adulto jóven,0,Solo
+493,0,1,male,55.0,0,0,30.5,S,Adulto mayor,0,Solo
+494,0,1,male,71.0,0,0,49.5042,C,Adulto mayor,0,Solo
+495,0,3,male,21.0,0,0,8.05,S,Adulto jóven,0,Solo
+496,0,3,male,,0,0,14.4583,C,,0,Solo
+497,1,1,female,54.0,1,0,78.2667,C,Adulto mayor,1,Acompañado
+498,0,3,male,,0,0,15.1,S,,0,Solo
+499,0,1,female,25.0,1,2,151.55,S,Adulto jóven,3,Acompañado
+500,0,3,male,24.0,0,0,7.7958,S,Adulto jóven,0,Solo
+501,0,3,male,17.0,0,0,8.6625,S,Adolescente,0,Solo
+502,0,3,female,21.0,0,0,7.75,Q,Adulto jóven,0,Solo
+503,0,3,female,,0,0,7.6292,Q,,0,Solo
+504,0,3,female,37.0,0,0,9.5875,S,Adulto,0,Solo
+505,1,1,female,16.0,0,0,86.5,S,Adolescente,0,Solo
+506,0,1,male,18.0,1,0,108.9,C,Adolescente,1,Acompañado
+507,1,2,female,33.0,0,2,26.0,S,Adulto,2,Acompañado
+508,1,1,male,,0,0,26.55,S,,0,Solo
+509,0,3,male,28.0,0,0,22.525,S,Adulto jóven,0,Solo
+510,1,3,male,26.0,0,0,56.4958,S,Adulto jóven,0,Solo
+511,1,3,male,29.0,0,0,7.75,Q,Adulto jóven,0,Solo
+512,0,3,male,,0,0,8.05,S,,0,Solo
+513,1,1,male,36.0,0,0,26.2875,S,Adulto,0,Solo
+514,1,1,female,54.0,1,0,59.4,C,Adulto mayor,1,Acompañado
+515,0,3,male,24.0,0,0,7.4958,S,Adulto jóven,0,Solo
+516,0,1,male,47.0,0,0,34.0208,S,Adulto,0,Solo
+517,1,2,female,34.0,0,0,10.5,S,Adulto,0,Solo
+518,0,3,male,,0,0,24.15,Q,,0,Solo
+519,1,2,female,36.0,1,0,26.0,S,Adulto,1,Acompañado
+520,0,3,male,32.0,0,0,7.8958,S,Adulto,0,Solo
+521,1,1,female,30.0,0,0,93.5,S,Adulto,0,Solo
+522,0,3,male,22.0,0,0,7.8958,S,Adulto jóven,0,Solo
+523,0,3,male,,0,0,7.225,C,,0,Solo
+524,1,1,female,44.0,0,1,57.9792,C,Adulto,1,Acompañado
+525,0,3,male,,0,0,7.2292,C,,0,Solo
+526,0,3,male,40.5,0,0,7.75,Q,Adulto,0,Solo
+527,1,2,female,50.0,0,0,10.5,S,Adulto mayor,0,Solo
+528,0,1,male,,0,0,221.7792,S,,0,Solo
+529,0,3,male,39.0,0,0,7.925,S,Adulto,0,Solo
+530,0,2,male,23.0,2,1,11.5,S,Adulto jóven,3,Acompañado
+531,1,2,female,2.0,1,1,26.0,S,Niño,2,Acompañado
+532,0,3,male,,0,0,7.2292,C,,0,Solo
+533,0,3,male,17.0,1,1,7.2292,C,Adolescente,2,Acompañado
+534,1,3,female,,0,2,22.3583,C,,2,Acompañado
+535,0,3,female,30.0,0,0,8.6625,S,Adulto,0,Solo
+536,1,2,female,7.0,0,2,26.25,S,Niño,2,Acompañado
+537,0,1,male,45.0,0,0,26.55,S,Adulto,0,Solo
+538,1,1,female,30.0,0,0,106.425,C,Adulto,0,Solo
+539,0,3,male,,0,0,14.5,S,,0,Solo
+540,1,1,female,22.0,0,2,49.5,C,Adulto jóven,2,Acompañado
+541,1,1,female,36.0,0,2,71.0,S,Adulto,2,Acompañado
+542,0,3,female,9.0,4,2,31.275,S,Niño,6,Acompañado
+543,0,3,female,11.0,4,2,31.275,S,Niño,6,Acompañado
+544,1,2,male,32.0,1,0,26.0,S,Adulto,1,Acompañado
+545,0,1,male,50.0,1,0,106.425,C,Adulto mayor,1,Acompañado
+546,0,1,male,64.0,0,0,26.0,S,Adulto mayor,0,Solo
+547,1,2,female,19.0,1,0,26.0,S,Adulto jóven,1,Acompañado
+548,1,2,male,,0,0,13.8625,C,,0,Solo
+549,0,3,male,33.0,1,1,20.525,S,Adulto,2,Acompañado
+550,1,2,male,8.0,1,1,36.75,S,Niño,2,Acompañado
+551,1,1,male,17.0,0,2,110.8833,C,Adolescente,2,Acompañado
+552,0,2,male,27.0,0,0,26.0,S,Adulto jóven,0,Solo
+553,0,3,male,,0,0,7.8292,Q,,0,Solo
+554,1,3,male,22.0,0,0,7.225,C,Adulto jóven,0,Solo
+555,1,3,female,22.0,0,0,7.775,S,Adulto jóven,0,Solo
+556,0,1,male,62.0,0,0,26.55,S,Adulto mayor,0,Solo
+557,1,1,female,48.0,1,0,39.6,C,Adulto,1,Acompañado
+558,0,1,male,,0,0,227.525,C,,0,Solo
+559,1,1,female,39.0,1,1,79.65,S,Adulto,2,Acompañado
+560,1,3,female,36.0,1,0,17.4,S,Adulto,1,Acompañado
+561,0,3,male,,0,0,7.75,Q,,0,Solo
+562,0,3,male,40.0,0,0,7.8958,S,Adulto,0,Solo
+563,0,2,male,28.0,0,0,13.5,S,Adulto jóven,0,Solo
+564,0,3,male,,0,0,8.05,S,,0,Solo
+565,0,3,female,,0,0,8.05,S,,0,Solo
+566,0,3,male,24.0,2,0,24.15,S,Adulto jóven,2,Acompañado
+567,0,3,male,19.0,0,0,7.8958,S,Adulto jóven,0,Solo
+568,0,3,female,29.0,0,4,21.075,S,Adulto jóven,4,Acompañado
+569,0,3,male,,0,0,7.2292,C,,0,Solo
+570,1,3,male,32.0,0,0,7.8542,S,Adulto,0,Solo
+571,1,2,male,62.0,0,0,10.5,S,Adulto mayor,0,Solo
+572,1,1,female,53.0,2,0,51.4792,S,Adulto mayor,2,Acompañado
+573,1,1,male,36.0,0,0,26.3875,S,Adulto,0,Solo
+574,1,3,female,,0,0,7.75,Q,,0,Solo
+575,0,3,male,16.0,0,0,8.05,S,Adolescente,0,Solo
+576,0,3,male,19.0,0,0,14.5,S,Adulto jóven,0,Solo
+577,1,2,female,34.0,0,0,13.0,S,Adulto,0,Solo
+578,1,1,female,39.0,1,0,55.9,S,Adulto,1,Acompañado
+579,0,3,female,,1,0,14.4583,C,,1,Acompañado
+580,1,3,male,32.0,0,0,7.925,S,Adulto,0,Solo
+581,1,2,female,25.0,1,1,30.0,S,Adulto jóven,2,Acompañado
+582,1,1,female,39.0,1,1,110.8833,C,Adulto,2,Acompañado
+583,0,2,male,54.0,0,0,26.0,S,Adulto mayor,0,Solo
+584,0,1,male,36.0,0,0,40.125,C,Adulto,0,Solo
+585,0,3,male,,0,0,8.7125,C,,0,Solo
+586,1,1,female,18.0,0,2,79.65,S,Adolescente,2,Acompañado
+587,0,2,male,47.0,0,0,15.0,S,Adulto,0,Solo
+588,1,1,male,60.0,1,1,79.2,C,Adulto mayor,2,Acompañado
+589,0,3,male,22.0,0,0,8.05,S,Adulto jóven,0,Solo
+590,0,3,male,,0,0,8.05,S,,0,Solo
+591,0,3,male,35.0,0,0,7.125,S,Adulto,0,Solo
+592,1,1,female,52.0,1,0,78.2667,C,Adulto mayor,1,Acompañado
+593,0,3,male,47.0,0,0,7.25,S,Adulto,0,Solo
+594,0,3,female,,0,2,7.75,Q,,2,Acompañado
+595,0,2,male,37.0,1,0,26.0,S,Adulto,1,Acompañado
+596,0,3,male,36.0,1,1,24.15,S,Adulto,2,Acompañado
+597,1,2,female,,0,0,33.0,S,,0,Solo
+598,0,3,male,49.0,0,0,0.0,S,Adulto,0,Solo
+599,0,3,male,,0,0,7.225,C,,0,Solo
+600,1,1,male,49.0,1,0,56.9292,C,Adulto,1,Acompañado
+601,1,2,female,24.0,2,1,27.0,S,Adulto jóven,3,Acompañado
+602,0,3,male,,0,0,7.8958,S,,0,Solo
+603,0,1,male,,0,0,42.4,S,,0,Solo
+604,0,3,male,44.0,0,0,8.05,S,Adulto,0,Solo
+605,1,1,male,35.0,0,0,26.55,C,Adulto,0,Solo
+606,0,3,male,36.0,1,0,15.55,S,Adulto,1,Acompañado
+607,0,3,male,30.0,0,0,7.8958,S,Adulto,0,Solo
+608,1,1,male,27.0,0,0,30.5,S,Adulto jóven,0,Solo
+609,1,2,female,22.0,1,2,41.5792,C,Adulto jóven,3,Acompañado
+610,1,1,female,40.0,0,0,153.4625,S,Adulto,0,Solo
+611,0,3,female,39.0,1,5,31.275,S,Adulto,6,Acompañado
+612,0,3,male,,0,0,7.05,S,,0,Solo
+613,1,3,female,,1,0,15.5,Q,,1,Acompañado
+614,0,3,male,,0,0,7.75,Q,,0,Solo
+615,0,3,male,35.0,0,0,8.05,S,Adulto,0,Solo
+616,1,2,female,24.0,1,2,65.0,S,Adulto jóven,3,Acompañado
+617,0,3,male,34.0,1,1,14.4,S,Adulto,2,Acompañado
+618,0,3,female,26.0,1,0,16.1,S,Adulto jóven,1,Acompañado
+619,1,2,female,4.0,2,1,39.0,S,Niño,3,Acompañado
+620,0,2,male,26.0,0,0,10.5,S,Adulto jóven,0,Solo
+621,0,3,male,27.0,1,0,14.4542,C,Adulto jóven,1,Acompañado
+622,1,1,male,42.0,1,0,52.5542,S,Adulto,1,Acompañado
+623,1,3,male,20.0,1,1,15.7417,C,Adulto jóven,2,Acompañado
+624,0,3,male,21.0,0,0,7.8542,S,Adulto jóven,0,Solo
+625,0,3,male,21.0,0,0,16.1,S,Adulto jóven,0,Solo
+626,0,1,male,61.0,0,0,32.3208,S,Adulto mayor,0,Solo
+627,0,2,male,57.0,0,0,12.35,Q,Adulto mayor,0,Solo
+628,1,1,female,21.0,0,0,77.9583,S,Adulto jóven,0,Solo
+629,0,3,male,26.0,0,0,7.8958,S,Adulto jóven,0,Solo
+630,0,3,male,,0,0,7.7333,Q,,0,Solo
+631,1,1,male,80.0,0,0,30.0,S,Adulto mayor,0,Solo
+632,0,3,male,51.0,0,0,7.0542,S,Adulto mayor,0,Solo
+633,1,1,male,32.0,0,0,30.5,C,Adulto,0,Solo
+634,0,1,male,,0,0,0.0,S,,0,Solo
+635,0,3,female,9.0,3,2,27.9,S,Niño,5,Acompañado
+636,1,2,female,28.0,0,0,13.0,S,Adulto jóven,0,Solo
+637,0,3,male,32.0,0,0,7.925,S,Adulto,0,Solo
+638,0,2,male,31.0,1,1,26.25,S,Adulto,2,Acompañado
+639,0,3,female,41.0,0,5,39.6875,S,Adulto,5,Acompañado
+640,0,3,male,,1,0,16.1,S,,1,Acompañado
+641,0,3,male,20.0,0,0,7.8542,S,Adulto jóven,0,Solo
+642,1,1,female,24.0,0,0,69.3,C,Adulto jóven,0,Solo
+643,0,3,female,2.0,3,2,27.9,S,Niño,5,Acompañado
+644,1,3,male,,0,0,56.4958,S,,0,Solo
+645,1,3,female,0.75,2,1,19.2583,C,Niño,3,Acompañado
+646,1,1,male,48.0,1,0,76.7292,C,Adulto,1,Acompañado
+647,0,3,male,19.0,0,0,7.8958,S,Adulto jóven,0,Solo
+648,1,1,male,56.0,0,0,35.5,C,Adulto mayor,0,Solo
+649,0,3,male,,0,0,7.55,S,,0,Solo
+650,1,3,female,23.0,0,0,7.55,S,Adulto jóven,0,Solo
+651,0,3,male,,0,0,7.8958,S,,0,Solo
+652,1,2,female,18.0,0,1,23.0,S,Adolescente,1,Acompañado
+653,0,3,male,21.0,0,0,8.4333,S,Adulto jóven,0,Solo
+654,1,3,female,,0,0,7.8292,Q,,0,Solo
+655,0,3,female,18.0,0,0,6.75,Q,Adolescente,0,Solo
+656,0,2,male,24.0,2,0,73.5,S,Adulto jóven,2,Acompañado
+657,0,3,male,,0,0,7.8958,S,,0,Solo
+658,0,3,female,32.0,1,1,15.5,Q,Adulto,2,Acompañado
+659,0,2,male,23.0,0,0,13.0,S,Adulto jóven,0,Solo
+660,0,1,male,58.0,0,2,113.275,C,Adulto mayor,2,Acompañado
+661,1,1,male,50.0,2,0,133.65,S,Adulto mayor,2,Acompañado
+662,0,3,male,40.0,0,0,7.225,C,Adulto,0,Solo
+663,0,1,male,47.0,0,0,25.5875,S,Adulto,0,Solo
+664,0,3,male,36.0,0,0,7.4958,S,Adulto,0,Solo
+665,1,3,male,20.0,1,0,7.925,S,Adulto jóven,1,Acompañado
+666,0,2,male,32.0,2,0,73.5,S,Adulto,2,Acompañado
+667,0,2,male,25.0,0,0,13.0,S,Adulto jóven,0,Solo
+668,0,3,male,,0,0,7.775,S,,0,Solo
+669,0,3,male,43.0,0,0,8.05,S,Adulto,0,Solo
+670,1,1,female,,1,0,52.0,S,,1,Acompañado
+671,1,2,female,40.0,1,1,39.0,S,Adulto,2,Acompañado
+672,0,1,male,31.0,1,0,52.0,S,Adulto,1,Acompañado
+673,0,2,male,70.0,0,0,10.5,S,Adulto mayor,0,Solo
+674,1,2,male,31.0,0,0,13.0,S,Adulto,0,Solo
+675,0,2,male,,0,0,0.0,S,,0,Solo
+676,0,3,male,18.0,0,0,7.775,S,Adolescente,0,Solo
+677,0,3,male,24.5,0,0,8.05,S,Adulto jóven,0,Solo
+678,1,3,female,18.0,0,0,9.8417,S,Adolescente,0,Solo
+679,0,3,female,43.0,1,6,46.9,S,Adulto,7,Acompañado
+680,1,1,male,36.0,0,1,512.3292,C,Adulto,1,Acompañado
+681,0,3,female,,0,0,8.1375,Q,,0,Solo
+682,1,1,male,27.0,0,0,76.7292,C,Adulto jóven,0,Solo
+683,0,3,male,20.0,0,0,9.225,S,Adulto jóven,0,Solo
+684,0,3,male,14.0,5,2,46.9,S,Adolescente,7,Acompañado
+685,0,2,male,60.0,1,1,39.0,S,Adulto mayor,2,Acompañado
+686,0,2,male,25.0,1,2,41.5792,C,Adulto jóven,3,Acompañado
+687,0,3,male,14.0,4,1,39.6875,S,Adolescente,5,Acompañado
+688,0,3,male,19.0,0,0,10.1708,S,Adulto jóven,0,Solo
+689,0,3,male,18.0,0,0,7.7958,S,Adolescente,0,Solo
+690,1,1,female,15.0,0,1,211.3375,S,Adolescente,1,Acompañado
+691,1,1,male,31.0,1,0,57.0,S,Adulto,1,Acompañado
+692,1,3,female,4.0,0,1,13.4167,C,Niño,1,Acompañado
+693,1,3,male,,0,0,56.4958,S,,0,Solo
+694,0,3,male,25.0,0,0,7.225,C,Adulto jóven,0,Solo
+695,0,1,male,60.0,0,0,26.55,S,Adulto mayor,0,Solo
+696,0,2,male,52.0,0,0,13.5,S,Adulto mayor,0,Solo
+697,0,3,male,44.0,0,0,8.05,S,Adulto,0,Solo
+698,1,3,female,,0,0,7.7333,Q,,0,Solo
+699,0,1,male,49.0,1,1,110.8833,C,Adulto,2,Acompañado
+700,0,3,male,42.0,0,0,7.65,S,Adulto,0,Solo
+701,1,1,female,18.0,1,0,227.525,C,Adolescente,1,Acompañado
+702,1,1,male,35.0,0,0,26.2875,S,Adulto,0,Solo
+703,0,3,female,18.0,0,1,14.4542,C,Adolescente,1,Acompañado
+704,0,3,male,25.0,0,0,7.7417,Q,Adulto jóven,0,Solo
+705,0,3,male,26.0,1,0,7.8542,S,Adulto jóven,1,Acompañado
+706,0,2,male,39.0,0,0,26.0,S,Adulto,0,Solo
+707,1,2,female,45.0,0,0,13.5,S,Adulto,0,Solo
+708,1,1,male,42.0,0,0,26.2875,S,Adulto,0,Solo
+709,1,1,female,22.0,0,0,151.55,S,Adulto jóven,0,Solo
+710,1,3,male,,1,1,15.2458,C,,2,Acompañado
+711,1,1,female,24.0,0,0,49.5042,C,Adulto jóven,0,Solo
+712,0,1,male,,0,0,26.55,S,,0,Solo
+713,1,1,male,48.0,1,0,52.0,S,Adulto,1,Acompañado
+714,0,3,male,29.0,0,0,9.4833,S,Adulto jóven,0,Solo
+715,0,2,male,52.0,0,0,13.0,S,Adulto mayor,0,Solo
+716,0,3,male,19.0,0,0,7.65,S,Adulto jóven,0,Solo
+717,1,1,female,38.0,0,0,227.525,C,Adulto,0,Solo
+718,1,2,female,27.0,0,0,10.5,S,Adulto jóven,0,Solo
+719,0,3,male,,0,0,15.5,Q,,0,Solo
+720,0,3,male,33.0,0,0,7.775,S,Adulto,0,Solo
+721,1,2,female,6.0,0,1,33.0,S,Niño,1,Acompañado
+722,0,3,male,17.0,1,0,7.0542,S,Adolescente,1,Acompañado
+723,0,2,male,34.0,0,0,13.0,S,Adulto,0,Solo
+724,0,2,male,50.0,0,0,13.0,S,Adulto mayor,0,Solo
+725,1,1,male,27.0,1,0,53.1,S,Adulto jóven,1,Acompañado
+726,0,3,male,20.0,0,0,8.6625,S,Adulto jóven,0,Solo
+727,1,2,female,30.0,3,0,21.0,S,Adulto,3,Acompañado
+728,1,3,female,,0,0,7.7375,Q,,0,Solo
+729,0,2,male,25.0,1,0,26.0,S,Adulto jóven,1,Acompañado
+730,0,3,female,25.0,1,0,7.925,S,Adulto jóven,1,Acompañado
+731,1,1,female,29.0,0,0,211.3375,S,Adulto jóven,0,Solo
+732,0,3,male,11.0,0,0,18.7875,C,Niño,0,Solo
+733,0,2,male,,0,0,0.0,S,,0,Solo
+734,0,2,male,23.0,0,0,13.0,S,Adulto jóven,0,Solo
+735,0,2,male,23.0,0,0,13.0,S,Adulto jóven,0,Solo
+736,0,3,male,28.5,0,0,16.1,S,Adulto jóven,0,Solo
+737,0,3,female,48.0,1,3,34.375,S,Adulto,4,Acompañado
+738,1,1,male,35.0,0,0,512.3292,C,Adulto,0,Solo
+739,0,3,male,,0,0,7.8958,S,,0,Solo
+740,0,3,male,,0,0,7.8958,S,,0,Solo
+741,1,1,male,,0,0,30.0,S,,0,Solo
+742,0,1,male,36.0,1,0,78.85,S,Adulto,1,Acompañado
+743,1,1,female,21.0,2,2,262.375,C,Adulto jóven,4,Acompañado
+744,0,3,male,24.0,1,0,16.1,S,Adulto jóven,1,Acompañado
+745,1,3,male,31.0,0,0,7.925,S,Adulto,0,Solo
+746,0,1,male,70.0,1,1,71.0,S,Adulto mayor,2,Acompañado
+747,0,3,male,16.0,1,1,20.25,S,Adolescente,2,Acompañado
+748,1,2,female,30.0,0,0,13.0,S,Adulto,0,Solo
+749,0,1,male,19.0,1,0,53.1,S,Adulto jóven,1,Acompañado
+750,0,3,male,31.0,0,0,7.75,Q,Adulto,0,Solo
+751,1,2,female,4.0,1,1,23.0,S,Niño,2,Acompañado
+752,1,3,male,6.0,0,1,12.475,S,Niño,1,Acompañado
+753,0,3,male,33.0,0,0,9.5,S,Adulto,0,Solo
+754,0,3,male,23.0,0,0,7.8958,S,Adulto jóven,0,Solo
+755,1,2,female,48.0,1,2,65.0,S,Adulto,3,Acompañado
+756,1,2,male,0.67,1,1,14.5,S,Niño,2,Acompañado
+757,0,3,male,28.0,0,0,7.7958,S,Adulto jóven,0,Solo
+758,0,2,male,18.0,0,0,11.5,S,Adolescente,0,Solo
+759,0,3,male,34.0,0,0,8.05,S,Adulto,0,Solo
+760,1,1,female,33.0,0,0,86.5,S,Adulto,0,Solo
+761,0,3,male,,0,0,14.5,S,,0,Solo
+762,0,3,male,41.0,0,0,7.125,S,Adulto,0,Solo
+763,1,3,male,20.0,0,0,7.2292,C,Adulto jóven,0,Solo
+764,1,1,female,36.0,1,2,120.0,S,Adulto,3,Acompañado
+765,0,3,male,16.0,0,0,7.775,S,Adolescente,0,Solo
+766,1,1,female,51.0,1,0,77.9583,S,Adulto mayor,1,Acompañado
+767,0,1,male,,0,0,39.6,C,,0,Solo
+768,0,3,female,30.5,0,0,7.75,Q,Adulto,0,Solo
+769,0,3,male,,1,0,24.15,Q,,1,Acompañado
+770,0,3,male,32.0,0,0,8.3625,S,Adulto,0,Solo
+771,0,3,male,24.0,0,0,9.5,S,Adulto jóven,0,Solo
+772,0,3,male,48.0,0,0,7.8542,S,Adulto,0,Solo
+773,0,2,female,57.0,0,0,10.5,S,Adulto mayor,0,Solo
+774,0,3,male,,0,0,7.225,C,,0,Solo
+775,1,2,female,54.0,1,3,23.0,S,Adulto mayor,4,Acompañado
+776,0,3,male,18.0,0,0,7.75,S,Adolescente,0,Solo
+777,0,3,male,,0,0,7.75,Q,,0,Solo
+778,1,3,female,5.0,0,0,12.475,S,Niño,0,Solo
+779,0,3,male,,0,0,7.7375,Q,,0,Solo
+780,1,1,female,43.0,0,1,211.3375,S,Adulto,1,Acompañado
+781,1,3,female,13.0,0,0,7.2292,C,Niño,0,Solo
+782,1,1,female,17.0,1,0,57.0,S,Adolescente,1,Acompañado
+783,0,1,male,29.0,0,0,30.0,S,Adulto jóven,0,Solo
+784,0,3,male,,1,2,23.45,S,,3,Acompañado
+785,0,3,male,25.0,0,0,7.05,S,Adulto jóven,0,Solo
+786,0,3,male,25.0,0,0,7.25,S,Adulto jóven,0,Solo
+787,1,3,female,18.0,0,0,7.4958,S,Adolescente,0,Solo
+788,0,3,male,8.0,4,1,29.125,Q,Niño,5,Acompañado
+789,1,3,male,1.0,1,2,20.575,S,Niño,3,Acompañado
+790,0,1,male,46.0,0,0,79.2,C,Adulto,0,Solo
+791,0,3,male,,0,0,7.75,Q,,0,Solo
+792,0,2,male,16.0,0,0,26.0,S,Adolescente,0,Solo
+793,0,3,female,,8,2,69.55,S,,10,Acompañado
+794,0,1,male,,0,0,30.6958,C,,0,Solo
+795,0,3,male,25.0,0,0,7.8958,S,Adulto jóven,0,Solo
+796,0,2,male,39.0,0,0,13.0,S,Adulto,0,Solo
+797,1,1,female,49.0,0,0,25.9292,S,Adulto,0,Solo
+798,1,3,female,31.0,0,0,8.6833,S,Adulto,0,Solo
+799,0,3,male,30.0,0,0,7.2292,C,Adulto,0,Solo
+800,0,3,female,30.0,1,1,24.15,S,Adulto,2,Acompañado
+801,0,2,male,34.0,0,0,13.0,S,Adulto,0,Solo
+802,1,2,female,31.0,1,1,26.25,S,Adulto,2,Acompañado
+803,1,1,male,11.0,1,2,120.0,S,Niño,3,Acompañado
+804,1,3,male,0.42,0,1,8.5167,C,Niño,1,Acompañado
+805,1,3,male,27.0,0,0,6.975,S,Adulto jóven,0,Solo
+806,0,3,male,31.0,0,0,7.775,S,Adulto,0,Solo
+807,0,1,male,39.0,0,0,0.0,S,Adulto,0,Solo
+808,0,3,female,18.0,0,0,7.775,S,Adolescente,0,Solo
+809,0,2,male,39.0,0,0,13.0,S,Adulto,0,Solo
+810,1,1,female,33.0,1,0,53.1,S,Adulto,1,Acompañado
+811,0,3,male,26.0,0,0,7.8875,S,Adulto jóven,0,Solo
+812,0,3,male,39.0,0,0,24.15,S,Adulto,0,Solo
+813,0,2,male,35.0,0,0,10.5,S,Adulto,0,Solo
+814,0,3,female,6.0,4,2,31.275,S,Niño,6,Acompañado
+815,0,3,male,30.5,0,0,8.05,S,Adulto,0,Solo
+816,0,1,male,,0,0,0.0,S,,0,Solo
+817,0,3,female,23.0,0,0,7.925,S,Adulto jóven,0,Solo
+818,0,2,male,31.0,1,1,37.0042,C,Adulto,2,Acompañado
+819,0,3,male,43.0,0,0,6.45,S,Adulto,0,Solo
+820,0,3,male,10.0,3,2,27.9,S,Niño,5,Acompañado
+821,1,1,female,52.0,1,1,93.5,S,Adulto mayor,2,Acompañado
+822,1,3,male,27.0,0,0,8.6625,S,Adulto jóven,0,Solo
+823,0,1,male,38.0,0,0,0.0,S,Adulto,0,Solo
+824,1,3,female,27.0,0,1,12.475,S,Adulto jóven,1,Acompañado
+825,0,3,male,2.0,4,1,39.6875,S,Niño,5,Acompañado
+826,0,3,male,,0,0,6.95,Q,,0,Solo
+827,0,3,male,,0,0,56.4958,S,,0,Solo
+828,1,2,male,1.0,0,2,37.0042,C,Niño,2,Acompañado
+829,1,3,male,,0,0,7.75,Q,,0,Solo
+830,1,1,female,62.0,0,0,80.0,S,Adulto mayor,0,Solo
+831,1,3,female,15.0,1,0,14.4542,C,Adolescente,1,Acompañado
+832,1,2,male,0.83,1,1,18.75,S,Niño,2,Acompañado
+833,0,3,male,,0,0,7.2292,C,,0,Solo
+834,0,3,male,23.0,0,0,7.8542,S,Adulto jóven,0,Solo
+835,0,3,male,18.0,0,0,8.3,S,Adolescente,0,Solo
+836,1,1,female,39.0,1,1,83.1583,C,Adulto,2,Acompañado
+837,0,3,male,21.0,0,0,8.6625,S,Adulto jóven,0,Solo
+838,0,3,male,,0,0,8.05,S,,0,Solo
+839,1,3,male,32.0,0,0,56.4958,S,Adulto,0,Solo
+840,1,1,male,,0,0,29.7,C,,0,Solo
+841,0,3,male,20.0,0,0,7.925,S,Adulto jóven,0,Solo
+842,0,2,male,16.0,0,0,10.5,S,Adolescente,0,Solo
+843,1,1,female,30.0,0,0,31.0,C,Adulto,0,Solo
+844,0,3,male,34.5,0,0,6.4375,C,Adulto,0,Solo
+845,0,3,male,17.0,0,0,8.6625,S,Adolescente,0,Solo
+846,0,3,male,42.0,0,0,7.55,S,Adulto,0,Solo
+847,0,3,male,,8,2,69.55,S,,10,Acompañado
+848,0,3,male,35.0,0,0,7.8958,C,Adulto,0,Solo
+849,0,2,male,28.0,0,1,33.0,S,Adulto jóven,1,Acompañado
+850,1,1,female,,1,0,89.1042,C,,1,Acompañado
+851,0,3,male,4.0,4,2,31.275,S,Niño,6,Acompañado
+852,0,3,male,74.0,0,0,7.775,S,Adulto mayor,0,Solo
+853,0,3,female,9.0,1,1,15.2458,C,Niño,2,Acompañado
+854,1,1,female,16.0,0,1,39.4,S,Adolescente,1,Acompañado
+855,0,2,female,44.0,1,0,26.0,S,Adulto,1,Acompañado
+856,1,3,female,18.0,0,1,9.35,S,Adolescente,1,Acompañado
+857,1,1,female,45.0,1,1,164.8667,S,Adulto,2,Acompañado
+858,1,1,male,51.0,0,0,26.55,S,Adulto mayor,0,Solo
+859,1,3,female,24.0,0,3,19.2583,C,Adulto jóven,3,Acompañado
+860,0,3,male,,0,0,7.2292,C,,0,Solo
+861,0,3,male,41.0,2,0,14.1083,S,Adulto,2,Acompañado
+862,0,2,male,21.0,1,0,11.5,S,Adulto jóven,1,Acompañado
+863,1,1,female,48.0,0,0,25.9292,S,Adulto,0,Solo
+864,0,3,female,,8,2,69.55,S,,10,Acompañado
+865,0,2,male,24.0,0,0,13.0,S,Adulto jóven,0,Solo
+866,1,2,female,42.0,0,0,13.0,S,Adulto,0,Solo
+867,1,2,female,27.0,1,0,13.8583,C,Adulto jóven,1,Acompañado
+868,0,1,male,31.0,0,0,50.4958,S,Adulto,0,Solo
+869,0,3,male,,0,0,9.5,S,,0,Solo
+870,1,3,male,4.0,1,1,11.1333,S,Niño,2,Acompañado
+871,0,3,male,26.0,0,0,7.8958,S,Adulto jóven,0,Solo
+872,1,1,female,47.0,1,1,52.5542,S,Adulto,2,Acompañado
+873,0,1,male,33.0,0,0,5.0,S,Adulto,0,Solo
+874,0,3,male,47.0,0,0,9.0,S,Adulto,0,Solo
+875,1,2,female,28.0,1,0,24.0,C,Adulto jóven,1,Acompañado
+876,1,3,female,15.0,0,0,7.225,C,Adolescente,0,Solo
+877,0,3,male,20.0,0,0,9.8458,S,Adulto jóven,0,Solo
+878,0,3,male,19.0,0,0,7.8958,S,Adulto jóven,0,Solo
+879,0,3,male,,0,0,7.8958,S,,0,Solo
+880,1,1,female,56.0,0,1,83.1583,C,Adulto mayor,1,Acompañado
+881,1,2,female,25.0,0,1,26.0,S,Adulto jóven,1,Acompañado
+882,0,3,male,33.0,0,0,7.8958,S,Adulto,0,Solo
+883,0,3,female,22.0,0,0,10.5167,S,Adulto jóven,0,Solo
+884,0,2,male,28.0,0,0,10.5,S,Adulto jóven,0,Solo
+885,0,3,male,25.0,0,0,7.05,S,Adulto jóven,0,Solo
+886,0,3,female,39.0,0,5,29.125,Q,Adulto,5,Acompañado
+887,0,2,male,27.0,0,0,13.0,S,Adulto jóven,0,Solo
+888,1,1,female,19.0,0,0,30.0,S,Adulto jóven,0,Solo
+889,0,3,female,,1,2,23.45,S,,3,Acompañado
+890,1,1,male,26.0,0,0,30.0,C,Adulto jóven,0,Solo
+891,0,3,male,32.0,0,0,7.75,Q,Adulto,0,Solo
