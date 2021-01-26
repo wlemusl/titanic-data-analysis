@@ -1,5 +1,5 @@
 # titanic-data-analysis
-This is a project developed by Mineros DataLab aiming to (1) explore the original database, (2) clean and preprocess it, generating a cleaned database, and (3) analyze and find patterns of the cleaned database, using Python, Pandas, and Seaborn.
+This is a project developed by Mineros DataLab aiming to (1) explore the original database, (2) clean and preprocess it to generate a cleaned database, and (3) analyze and find patterns of the cleaned database, using Python, Pandas, and Seaborn.
 
 This repository contains three ipynb files and three csv files.
 
